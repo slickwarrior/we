@@ -1,1 +1,1 @@
-anime
+https://slickwarrior.github.io/anime
